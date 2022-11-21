@@ -1,0 +1,73 @@
+"cardápio":[
+    {
+        "id": 1,
+        "nome": "Doidos por camarão",
+        "descrição": "6 hot ebi + 6 ebi Fila + 6 Urumaki Camarão + 2 unidades harumaki camarão",
+        "preço": "R$56,00",
+        "categoria_id": 1
+    }
+    {
+        "id": 2,
+        "nome": "Executivo 1",
+        "descrição": "1 Temaki Filadelfia + 6 Japa Joe + 6 Sushi Salmão",
+        "preço": "R$45,90",
+        "categoria_id": 1
+    }
+    {
+        "id": 3,
+        "nome":"Executivo 2",
+        "descrição": "Meia porção de yakisoba + 12 Hots",
+        "preço": "R$38,92",
+        "categoria_id": 1 
+    }
+    {
+        "id": 4,
+        "nome": "Executivo 3",
+        "descrição":"6 Hot Filadélfia + 6 Hot Skin + 6 Hot Ebi + 6 Hot Atum",
+        "preço": "R$35,90",
+        "categoria_id": 1
+
+    }
+    {
+        "id": 5,
+        "nome": "Coca-cola 2l",
+        "descrição": "Coca-Cola 2 Litros",
+        "preço" : "R$12,90",
+        "categoria_id": 2
+
+    }
+    {
+        "id": 6,
+        "nome": "Fanta Laranja 350ml",
+        "descrição": "Fanta Laranja 350ml",
+        "preço" : "R$6,90",
+        "categoria_id": 2
+
+    }
+    {
+        "id": 7,
+        "nome": "Guaravita Natural 200ml",
+        "descrição": "Guaravita Natural 200ml",
+        "preço" : "R$3,00",
+        "categoria_id": 2
+
+    }
+    {
+        "id": 8,
+        "nome": "Brahma - Latão",
+        "descrição": "Brahma Lata 473ml",
+        "preço" : "R$7,50",
+        "categoria_id": 2
+
+    }
+]
+"categorias":[
+    {
+        "id": 1,
+        "nome": "Pratos",
+    }
+    {
+        "id": 2,
+        "nome": "Bebidas"
+    }
+]
